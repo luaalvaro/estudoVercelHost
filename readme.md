@@ -34,3 +34,21 @@ Acessando https://estudo-vercel-host.vercel.app/sobre.html temos o error 404: NO
 Vou criar uma pasta pages/ e colocar meus dois arquivos html dentro pra ver se as configurações do next são implementadas aqui
 
 ---
+
+Funciona ao acessar os links
+
+https://estudo-vercel-host.vercel.app/pages/about.html
+
+https://estudo-vercel-host.vercel.app/pages
+
+Ou seja, no teste anterior eu digitei o nome do arquivo errado, por isso tivemos um error 404
+
+Vemos então que zero config é possível colocar um site no ar, mas pra utilizar o conceito de rotas e estruturação você vai precisar
+utilizar as funções serverless da vercel
+
+Criei uma nova page chamada views, coloquei meus dois arquivos html nela, e agora vou tentar utilizar algumas funções serverless da vercel
+
+para isso vou criar um arquivo index.js na pasta pages/
+
+---
+
