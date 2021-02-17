@@ -52,3 +52,13 @@ para isso vou criar um arquivo index.js na pasta pages/
 
 ---
 
+O comportamento ao acessar 
+
+https://estudo-vercel-host.vercel.app/pages
+
+É um comportamento que não esperaria, pois é como se meu arquivo javascript estivesse sendo lido como um bloco de notas
+e apenas o código que digitei é exibido na tela
+
+eu simplesmente vou copiar a pasta pages, mudar o nome dela pra api e ver se assim funcionará
+
+---
