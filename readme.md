@@ -26,3 +26,11 @@ usa é criar umas pasta pages/ e qualquer arquivo dentro desta pasta se torna um
 apenas o servido da vercel que é otimizado para o next.
 
 ---
+
+Acessando https://estudo-vercel-host.vercel.app/sobre temos o error 404: NOT_FOUND
+
+Acessando https://estudo-vercel-host.vercel.app/sobre.html temos o error 404: NOT_FOUND
+
+Vou criar uma pasta pages/ e colocar meus dois arquivos html dentro pra ver se as configurações do next são implementadas aqui
+
+---
