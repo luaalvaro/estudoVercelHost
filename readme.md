@@ -15,3 +15,14 @@ Automaticamente ele irá fazer deploy e em poucos segundos o seu projeto está n
 ---
 
 Vou começar meus estudos criando um singelo arquivo HTML na raiz do meu projeto e vou fazer meu commit pra branch master.
+
+---
+
+Funciona perfeitamente, em poucos segundos temos uma página HTML hosteada pela vercel, com altíssima disponibilidade, e 
+é incrível como o carregamento se da de forma quase instantanea.
+
+Agora irei criar um segundo arquivo, para ver qual o comportamento de rotas e novas páginas. Porque a estrutura que o Next JS
+usa é criar umas pasta pages/ e qualquer arquivo dentro desta pasta se torna uma "rota" porém não estamos utilizando o next
+apenas o servido da vercel que é otimizado para o next.
+
+---
