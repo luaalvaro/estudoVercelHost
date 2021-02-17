@@ -1,3 +1,3 @@
 module.exports = (req, res) => {
-    res.send("Olá mundo!")
+    res.render('views/home')
 }

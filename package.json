@@ -1,0 +1,23 @@
+{
+  "name": "estudoVercelHost",
+  "version": "1.0.0",
+  "description": "Este estudo tem o intuito de entender as entranhas do host da vercel, por ser uma hospedagem de altíssima disponibilidade\r além de tudo é uma ferramenta gratuita, onde podemos colocar projetos no ar com a maior facilidade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luaalvaro/estudoVercelHost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luaalvaro/estudoVercelHost/issues"
+  },
+  "homepage": "https://github.com/luaalvaro/estudoVercelHost#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}

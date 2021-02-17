@@ -62,3 +62,31 @@ e apenas o código que digitei é exibido na tela
 eu simplesmente vou copiar a pasta pages, mudar o nome dela pra api e ver se assim funcionará
 
 ---
+
+Perfeito, o código funciona perfeitamente, agora temos rotas no nosso projeto
+acessando https://estudo-vercel-host.vercel.app/api
+
+-- 
+
+Quero testar para ver se o servidor da vercel suporta o EJS
+então vou instalar o framwork e tentar criar um arquivo bem simples
+
+e pesquisando um pouco mais sobre as funções de req e res disponíveis pra api
+
+encontro os seguintes métodos
+
+'req.query'
+'req.cookies'
+'req.body'
+
+'res.status(code)'
+'res.send(body)'
+'res.json(obj)'
+'res.redirect(url)'
+'res.redirect(statusCode, url)'
+
+São muitas funções, porém não é o que precisamos para utilizar o motor de renderização do EJS, pois eu precisaria de uma função res.RENDER
+ou pelo menos acho que precisaria, acredito que os teste vão dar errado e a melhor opção realmente é entrar de vez no next js e construir
+a aplicação utilizando o poder do framework.
+
+---
